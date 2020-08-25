@@ -7,7 +7,7 @@ setup(
     version="1.0",
     description="service_api",
     long_description="""
-        IRISDiscoveryService-PY-API
+        Service-PY-API
     """,
-    url="https://github.com/mobigen/IRISDiscoveryService-PY-API",
+    url="깃허브 주소",
 )
